@@ -1,0 +1,32 @@
+.csbody {
+  background: linear-gradient(rgba(100, 205, 231, 0.89), #fff);
+  height: 100vh;
+}
+
+.logo1 {
+  position: absolute;
+  top: 30%;
+  left: 43%;
+  transform: (-50%, -50%);
+  width: 15%;
+}
+
+.intro-p {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.year {
+  margin-top: 16rem;
+  font-size: 6rem;
+  font-weight: 600;
+  letter-spacing: 2rem;
+  text-align: center;
+}
+
+.intro-text {
+  position: absolute;
+  top: 47%;
+  left: 41.5%;
+  transform: (-50%, -50%);
+}

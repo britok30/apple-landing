@@ -1,0 +1,44 @@
+.logogrey {
+  width: 15%;
+  position: absolute;
+  top: 25%;
+  left: 43%;
+  transform: (-50%, -50%);
+  opacity: 0.2;
+}
+
+.mainbody {
+  background: linear-gradient(
+    to right,
+    rgba(154, 155, 156, 0.171),
+    #ffffff
+  );
+  height: 100vh;
+}
+
+.main-text {
+  position: absolute;
+  top: 40%;
+  left: 35%;
+  transform: (-50%, -50%);
+  text-align: center;
+}
+
+.welcome {
+  font-size: 5rem;
+  font-weight: 600;
+  margin-bottom: 16rem;
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+  color: rgb(86, 191, 209);
+}
+
+.product-link {
+  font-size: 1.3rem;
+}
+
